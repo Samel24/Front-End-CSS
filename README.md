@@ -31,3 +31,4 @@ Parte del Video
 Luis Suárez realizo:
 Parte de la Página web, ayudando en HTML y CSS
 Parte del Video
+Maquetación de Figma
